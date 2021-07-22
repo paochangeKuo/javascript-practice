@@ -23,7 +23,8 @@
         let result = ""
         for (let j = 1; j <= i; j++){
             result = result + "*"
-        }console.log(result)
+        }
+      console.log(result)
     }
   }
   
