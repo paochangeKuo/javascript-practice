@@ -9,3 +9,4 @@ function greaterThan(n){
 
 const result = lists.filter(greaterThan(4))
 console.log(result)  // 印出 [ 8, 7, 5 ]
+
