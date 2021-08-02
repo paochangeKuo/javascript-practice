@@ -12,10 +12,10 @@ let r = [[0, 1], [2, 3]].reduce(
   function getInfo(member, year) {
   //   let member = person
   //   let year = birthYear 
-    console.log(person,year)
+    // console.log(person,year)
     member.name = 'Lydia';
     year = '1998';
-    console.log(person,year)
+    // console.log(person,year)
   }
   // console.log(year)
   const person = { name: 'Sarah' };
